@@ -1,4 +1,4 @@
-## meesho-data-challenge
+## Team wdc
 Submission for the CODS-COMAD Data Challenge, Sponsored by Meesho
 
 # Visual Taxonomy Classification Project
